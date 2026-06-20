@@ -4,7 +4,7 @@ Personalized Health & Wellness Assistant built using Flutter.
 
 ##  Live Demo
 
-👉 https://preview.flutlab.io/saisandeep/diabetic-patient-food/
+ https://preview.flutlab.io/saisandeep/diabetic-patient-food/
 
 ##  Features
 
@@ -14,7 +14,7 @@ Personalized Health & Wellness Assistant built using Flutter.
 - Doctor Advice
 - Medical Tips
 
-## 🛠️Technology
+## Technology
 
 - Flutter
 - Dart
